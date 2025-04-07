@@ -44,57 +44,6 @@ Make sure you have the following installed:
 
 ---
 
-## 📥 Installation Steps
-# 📚 LearnLens – AI-Powered Image-to-Quiz Educational App
-
-LearnLens is a powerful Flutter-based mobile application designed to convert images of textual content (from books, notes, or printouts) into structured learning formats like multiple-choice quizzes, flashcards, and concise summaries. It uses Google ML Kit for OCR and the Gemini API for AI-based content generation.
-
----
-
-## 🎯 Objective
-
-The app enables students and self-learners to automate note revision and content recall by intelligently digitizing their study material into interactive learning aids.
-
----
-
-## ✨ Features
-
-- 📷 Capture or upload textbook images
-- 🔍 OCR text extraction (handwritten and printed)
-- 🧠 AI-generated summaries for quick review
-- ❓ Auto-generated multiple-choice quizzes
-- 🃏 Flip-based flashcards for active recall
-- 🧪 Quiz scoring and feedback
-- ✅ User-friendly Flutter UI
-
----
-
-## 🧱 Architecture (in 5 lines)
-
-1. The user selects or captures an image of study material.
-2. Google ML Kit processes the image to extract raw text.
-3. Text is fed into Gemini via prompt formatting.
-4. Gemini responds with structured content: summary, quiz, flashcards.
-5. Flutter widgets dynamically render this content for user interaction.
-
----
-
-## 🧰 Tech Stack
-
-LearnLens is developed using *Flutter* for cross-platform mobile development and *Dart* as its core language. It uses *Google ML Kit* for OCR-based text extraction and *Gemini API* via google_generative_ai to create intelligent educational outputs. Supporting packages include image_picker for image handling and http for networking.
-
----
-
-## 📦 Prerequisites
-
-- Flutter SDK (v3.x or later)
-- Dart SDK
-- Android Studio / VS Code with Flutter plugin
-- A connected Android device or emulator
-- API key from [Google AI Studio (Gemini)](https://makersuite.google.com/)
-
----
-
 ## ⚙ How to Install & Run
 
 ```bash
