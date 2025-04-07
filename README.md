@@ -3,7 +3,7 @@
 LearnLens is an intelligent mobile application that transforms images of text (from books, notes, or handouts) into interactive *quizzes, **flashcards, and **summaries* using *OCR* and *Google's Gemini AI*. Designed to boost self-learning, it's ideal for students and learners who want to study efficiently on the go.
 BY - 
 - Om Pandey (23bds040)
-- Prathamesh Patil (23bds040)
+- Prathamesh Patil (23bds043)
 - Avishi Agarwal (23bds074)
 - Vishavjeet Yadav (23bds069)
 ---
